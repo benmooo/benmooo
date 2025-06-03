@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on render0
+- 🔭 I’m currently working on aetheria
 - 🌱 I’m currently learning computer graphics
 - 👯 I’m looking to collaborate on game arts
 - 🤔 I’m looking for help with mathmatics
